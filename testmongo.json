@@ -1,0 +1,1 @@
+{'_id': ObjectId('64e8c99d1d320e6c19dd7d25'), 'Userinfo': [{'Userid': '0', 'firstname': 'John', 'lastname': 'Aria', 'team': 'Red'}, {'Userid': '1', 'firstname': 'Albert', 'lastname': 'Brown', 'team': 'Blue'}, {'Userid': '2', 'firstname': 'James', 'lastname': 'Joseph', 'team': 'Red'}, {'Userid': '3', 'firstname': 'Uzhudheer', 'lastname': 'Octher', 'team': 'Blue'}]}
